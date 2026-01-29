@@ -135,7 +135,7 @@ export default function FoodRescueDashboard() {
       <header className="max-w-7xl mx-auto flex items-center justify-between mb-6">
         <div>
           <h1 className="text-2xl font-bold tracking-tight flex items-center gap-3"><Box className="inline-block" /> Orchestrating Surplus to Sustainability</h1>
-          <p className="text-slate-400">Agentic AI for Food Rescue & Urban Liveability — demo dashboard</p>
+          <p className="text-slate-400">Agentic AI for Food Rescue & Urban Liveability</p>
         </div>
         <nav className="space-x-3 text-sm text-slate-300">
           <button className="px-3 py-2 bg-slate-700 rounded-md">Overview</button>
