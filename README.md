@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-The Food Rescue Dashboard is a cutting-edge web application that demonstrates how agentic AI systems can orchestrate complex logistics to reduce food waste and improve urban sustainability. The system coordinates five specialized AI agents that work together to optimize every aspect of food donation - from detection and categorization to demand prediction, route planning, and impact tracking.
+The Food Rescue Dashboard is a cutting-edge web application that demonstrates how agentic AI systems can orchestrate complex logistics to reduce food waste and improve urban sustainability. The system coordinates five specialized AI agents that work together to optimize every aspect of food donation, from detection and categorization to demand prediction, route planning, and impact tracking.
 
 ## 🧠 The Agent System
 
