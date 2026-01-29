@@ -48,10 +48,10 @@ Tracks and visualizes the cumulative impact of food rescue operations over time.
 
 ### Donating Food
 
-1. **Select Food Type**: Choose between Perishable or Non-Perishable
+1. **Select Food Type**: Choose between Perishable or Non-Perishable or Preparded Meal
 2. **Enter Details**: Provide the food name, quantity, and unit
-3. **Submit**: Click "Orchestrate" to activate the agent system
-4. **Watch the Magic**: Observe as each agent processes your donation in sequence
+3. **Submit**: Click "Donate" to activate the agent system
+4. **Live In Action**: Observe as each agent processes your donation in sequence
 
 ### Monitoring Operations
 
