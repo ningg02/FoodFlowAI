@@ -154,7 +154,7 @@ export default function FoodRescueDashboard() {
                 <label className="text-sm text-slate-400">Type</label>
                 <select className="w-full p-2 rounded-md bg-slate-900" value={donationForm.type} onChange={e => setDonationForm({ ...donationForm, type: e.target.value })}>
                   <option>Perishable</option>
-                  <option>Non-perishable</option>
+                  <option>Non-Perishable</option>
                   <option>Prepared Meal</option>
                 </select>
               </div>
